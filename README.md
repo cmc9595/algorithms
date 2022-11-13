@@ -1,2 +1,2 @@
 # algorithms
-algorithm ps solving starting from 22.11
+algorithm problem solving starting from 22.11
