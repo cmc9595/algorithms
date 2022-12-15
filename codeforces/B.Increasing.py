@@ -1,0 +1,1 @@
+print(*['YES' if int(input())==len(set(input().split())) else 'NO' for _ in range(int(input()))], sep='\n')
