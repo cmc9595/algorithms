@@ -1,8 +1,6 @@
 import re
-from string import ascii_lowercase, ascii_uppercase
 s = input()
 l = re.findall('(?=([A-Z][a-z]*[A-Z]))', s)
-print(l)
 cnt=0
 for i in l:
     j = len(i)-2
