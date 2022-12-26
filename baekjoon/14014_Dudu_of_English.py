@@ -26,5 +26,3 @@ for i in s.split():
         tmp=0
     else:
         print(' ', end='')
-            
-
