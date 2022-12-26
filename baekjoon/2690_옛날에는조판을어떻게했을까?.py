@@ -21,3 +21,5 @@ for line in l:
     line = re.sub('(oE|oe)', '[oe]', line)
     line = re.sub('(ct|ffi|ffl|ff|fi|fl)', r'[\1]', line)
     print(line)
+
+    # 반례: crosstitch, crosstaff
